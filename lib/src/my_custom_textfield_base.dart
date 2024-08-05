@@ -2,13 +2,13 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class CustomTextfield extends StatelessWidget {
-  TextEditingController controller;
-  Widget? prefixIcon;
-  String? hintText;
-  TextInputType? keyboardType;
-  List<TextInputFormatter>? textInputFormatter;
-  Function(String)? onChanged;
-  int? maxLength;
+  final TextEditingController controller;
+  final Widget? prefixIcon;
+  final String? hintText;
+  final TextInputType? keyboardType;
+  final List<TextInputFormatter>? textInputFormatter;
+  final Function(String)? onChanged;
+  final int? maxLength;
   CustomTextfield({
     this.textInputFormatter,
     this.keyboardType,

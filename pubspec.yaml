@@ -1,7 +1,7 @@
 name: my_custom_textfield
 description:  A custom textfield widget for Flutter.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/Aabdulloh2005/my_custom_textfield.git
 
 environment:
   sdk: ^3.4.4
