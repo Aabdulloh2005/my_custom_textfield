@@ -1,6 +1,6 @@
 name: my_custom_textfield
 description:  The 'my_custom_textfield' package provides a customizable text field widget for Flutter applications. This widget is designed to enhance the user input experience with features like customizable hint text, prefix icons, and input validation. Ideal for developers looking to implement consistent and stylish text fields across their apps, the 'CustomTextfield' widget supports various input types and formats, ensuring flexibility and ease of use.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/Aabdulloh2005/my_custom_textfield.git
 
 environment:
